@@ -36,7 +36,7 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/RONAKBAGRI/Projects/tree/main/portfolio
+   git clone https://github.com/RONAKBAGRI/codeiox_1-portfolio
 
 2. **Visit my website:**
    ```bash
